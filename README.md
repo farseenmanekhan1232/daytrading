@@ -169,8 +169,8 @@ Integrated into the calendar:
 ## Installation and Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/farseenmanekhan1232/daytrading.git
+   cd daytrading
    ```
 2. Ensure Python 3.8+ is installed.
 3. No additional dependencies needed (uses standard libraries: `datetime`, `zoneinfo`).
